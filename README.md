@@ -3,6 +3,9 @@ Módulo para exemplificar construção de projetos Python on curso PyTool
 
 Suportada versão 3 de python
 
+#Badges
+[![codecov](https://codecov.io/gh/marcio-costa/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/marcio-costa/libpythonpro)
+
 Para installar:
 
 """console
