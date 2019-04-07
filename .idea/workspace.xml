@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f63a9feb-a214-4f8f-8f18-46789476063f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/libpythonpro/spam/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/spam/modelos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/testes/test_spam/test_usuarios.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/spam/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/spam/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/spam/modelos.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/spam/modelos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/testes/test_spam/test_envio_para_base_de_usuario.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/testes/test_spam/test_envio_para_base_de_usuario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/testes/test_spam/test_usuarios.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/testes/test_spam/test_usuarios.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +20,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libpythonpro/testes/test_spam/test_enviador_spam.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
+            <state relative-caret-position="408">
               <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -27,14 +29,53 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libpythonpro/testes/test_spam/test_usuarios.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+            <state relative-caret-position="390">
+              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libpythonpro/testes/test_spam/conftest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
               <folding>
-                <element signature="e#0#40#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libpythonpro/testes/test_spam/test_envio_para_base_de_usuario.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="35">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libpythonpro/spam/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -42,22 +83,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libpythonpro/spam/db.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+            <state>
+              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libpythonpro/spam/modelos.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="104">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -83,9 +119,12 @@
         <option value="$PROJECT_DIR$/libpythonpro/.travis.yml" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/libpythonpro/testes/test_spam/test_enviador_spam.py" />
-        <option value="$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py" />
         <option value="$PROJECT_DIR$/libpythonpro/spam/db.py" />
+        <option value="$PROJECT_DIR$/libpythonpro/spam/modelos.py" />
         <option value="$PROJECT_DIR$/libpythonpro/testes/test_spam/test_usuarios.py" />
+        <option value="$PROJECT_DIR$/libpythonpro/spam/main.py" />
+        <option value="$PROJECT_DIR$/libpythonpro/testes/test_spam/test_envio_para_base_de_usuario.py" />
+        <option value="$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py" />
       </list>
     </option>
   </component>
@@ -103,6 +142,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,12 +178,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/libpythonpro/spam/db.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libpythonpro/testes/test_spam" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -213,6 +252,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_envio_para_base_de_usuario" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="libpythonpro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libpythonpro/testes/test_spam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libpythonpro/testes/test_spam/test_envio_para_base_de_usuario.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test_usuarios" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="libpythonpro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,10 +313,12 @@
       <item itemvalue="Python.github_api" />
       <item itemvalue="Python.test_enviador_spam" />
       <item itemvalue="Python.test_usuarios" />
+      <item itemvalue="Python.test_envio_para_base_de_usuario" />
       <item itemvalue="Python tests.pytest in test_spam" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_envio_para_base_de_usuario" />
         <item itemvalue="Python.test_usuarios" />
         <item itemvalue="Python.test_enviador_spam" />
         <item itemvalue="Python.github_api" />
@@ -302,38 +364,52 @@
       <option name="project" value="LOCAL" />
       <updated>1554523511874</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="testing flake8">
+      <created>1554558131154</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554558131154</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add SPAM">
+      <created>1554610628621</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554610628621</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_test_spam - 2019.04.06 at 10h 24m 37s.xml">
+    <history-entry file="pytest_in_test_spam - 2019.04.07 at 13h 05m 00s.xml">
       <configuration name="pytest in test_spam" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_spam - 2019.04.06 at 10h 26m 20s.xml">
+    <history-entry file="pytest_in_test_spam - 2019.04.07 at 13h 05m 38s.xml">
       <configuration name="pytest in test_spam" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_spam - 2019.04.06 at 10h 27m 17s.xml">
+    <history-entry file="pytest_in_test_spam - 2019.04.07 at 13h 07m 48s.xml">
       <configuration name="pytest in test_spam" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_spam - 2019.04.06 at 10h 28m 21s.xml">
+    <history-entry file="pytest_in_test_spam - 2019.04.07 at 13h 08m 02s.xml">
       <configuration name="pytest in test_spam" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_spam - 2019.04.06 at 10h 33m 59s.xml">
+    <history-entry file="pytest_in_test_spam - 2019.04.07 at 13h 10m 00s.xml">
       <configuration name="pytest in test_spam" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_spam - 2019.04.06 at 10h 35m 37s.xml">
+    <history-entry file="pytest_in_test_spam - 2019.04.07 at 13h 11m 41s.xml">
       <configuration name="pytest in test_spam" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_spam - 2019.04.06 at 10h 37m 52s.xml">
+    <history-entry file="pytest_in_test_spam - 2019.04.07 at 13h 12m 05s.xml">
       <configuration name="pytest in test_spam" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_spam - 2019.04.06 at 10h 38m 05s.xml">
+    <history-entry file="pytest_in_test_spam - 2019.04.07 at 13h 15m 12s.xml">
       <configuration name="pytest in test_spam" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_spam - 2019.04.06 at 10h 38m 52s.xml">
+    <history-entry file="pytest_in_test_spam - 2019.04.07 at 13h 16m 50s.xml">
       <configuration name="pytest in test_spam" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_spam - 2019.04.06 at 10h 41m 23s.xml">
+    <history-entry file="pytest_in_test_spam - 2019.04.07 at 13h 17m 43s.xml">
       <configuration name="pytest in test_spam" configurationId="tests" />
     </history-entry>
   </component>
@@ -361,7 +437,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testing flake8" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing flake8" />
+    <MESSAGE value="add SPAM" />
+    <option name="LAST_COMMIT_MESSAGE" value="add SPAM" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/libpythonpro/github_api.py">
@@ -404,16 +481,9 @@
     <entry file="file://$PROJECT_DIR$/libpythonpro/testes/test_exemplo.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/libpythonpro/testes/test_spam/test_enviador_spam.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
+        <state relative-caret-position="408">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -421,23 +491,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libpythonpro/spam/modelos.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libpythonpro/spam/db.py">
+    <entry file="file://$PROJECT_DIR$/libpythonpro/testes/test_spam/test_usuarios.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        <state relative-caret-position="390">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libpythonpro/testes/test_spam/test_usuarios.py">
+    <entry file="file://$PROJECT_DIR$/libpythonpro/testes/test_spam/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        <state relative-caret-position="142">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
           <folding>
-            <element signature="e#0#40#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libpythonpro/spam/modelos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libpythonpro/spam/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libpythonpro/spam/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libpythonpro/testes/test_spam/test_envio_para_base_de_usuario.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
